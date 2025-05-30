@@ -7,6 +7,15 @@ venv/
 # Ignore Python bytecode files
 __pycache__/
 *.pyc
-
+db/
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Ignore logs
+venue_details.json
+
+# Ignore Markdown files generated from templates
+interview_materials.md
+Vansh_Dugar_Resume.md
+tailored_resume.md
+marketing_report.md
